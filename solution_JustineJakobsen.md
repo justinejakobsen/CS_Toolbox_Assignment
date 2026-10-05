@@ -13,6 +13,4 @@
 
 ![Plot](correlation_plot.png)
 
-The plot shows a positive relationship between the two variables. 
-However, a correlation between the variables does not necessarily imply 
-a causal relationship.
+The scatter plot shows a relatively positive relationship between the two variables. We see that as WO increases, Dutch beer consumption generally also increases. However, the observations are relatively flat in the beginning and therefore show some variation. Also, a correlation between the variables does not necessarily imply a causal relationship between them.
